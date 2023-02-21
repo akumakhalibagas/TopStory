@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Top Story</string>
+    <string name="text_error_network_not_avail">ops error internet</string>
+    <string name="tv_komentar">Komentar</string>
+    <string name="tv_deskripsi">Deskripsi</string>
+    <string name="fav">My Fav</string>
+    <string name="tv_example_fav">Favorite/Terakhir di klik disini</string>
+</resources>
